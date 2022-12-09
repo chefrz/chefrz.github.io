@@ -1,0 +1,58 @@
+#HeadTopMenu
+{
+    background-color: #F4F6F6;
+    padding: 10px 0px 5px 0px;
+    text-align: center;
+}
+#Slogan
+{
+    text-align: left;
+    color: #784212;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 0px 0px 0px;
+}
+body 
+{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.AraBasliklar
+{
+    color: #784212;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-style: italic;
+}
+.Ortala
+{
+    text-align: center;
+}
+
+.script-item
+{
+    position: relative;
+    left: 450px;
+    width: 900px;
+    height: 600px;
+    top: 40px;
+}
+
+.card-item
+{
+    position: relative;
+    width: 1500px;
+    height: 600px;
+    left: 150px;
+}
+
+
+.label-item
+{
+    position: relative;
+    top: 20px;
+}
+
+
+
